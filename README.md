@@ -1,5 +1,5 @@
 # C++ Практика 1
-<img src="https://github.com/user-attachments/assets/42bc51bf-4aad-473e-a07a-41623537042c" width="135" /> <img width="45" height="46" src="https://github.com/user-attachments/assets/3da35e24-a73f-4854-9a03-3988f1fce98d" />
+<img src="https://github.com/user-attachments/assets/42bc51bf-4aad-473e-a07a-41623537042c" width="135" /> <img width="44" height="45" src="https://github.com/user-attachments/assets/3da35e24-a73f-4854-9a03-3988f1fce98d" />
 > Карасев Илья
 ___
 <img width="719" height="662" alt="image" src="https://github.com/user-attachments/assets/de312900-9f9d-48fe-b465-b5f34a8cb0f8" />
